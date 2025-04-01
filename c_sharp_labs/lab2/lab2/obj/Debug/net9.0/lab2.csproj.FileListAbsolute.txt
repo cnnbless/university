@@ -1,0 +1,14 @@
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\bin\Debug\net9.0\lab2.exe
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\bin\Debug\net9.0\lab2.deps.json
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\bin\Debug\net9.0\lab2.runtimeconfig.json
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\bin\Debug\net9.0\lab2.dll
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\bin\Debug\net9.0\lab2.pdb
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\lab2.AssemblyInfoInputs.cache
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\lab2.AssemblyInfo.cs
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\lab2.dll
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\refint\lab2.dll
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\lab2.pdb
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\lab2.genruntimeconfig.cache
+C:\Users\Tony\Desktop\c_sharp_labs\lab2\lab2\obj\Debug\net9.0\ref\lab2.dll
